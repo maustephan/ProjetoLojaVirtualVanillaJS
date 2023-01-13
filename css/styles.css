@@ -1,0 +1,142 @@
+.acerto{
+    width: 450px;
+}
+#saudacao{
+    color: white;
+    margin: 0 30px 0 30px;
+    padding-top: 0.5rem;
+}
+#pesquisa{
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+    text-align: center;
+}
+
+.conteudo{
+    margin-left: 15px ;
+    display: flex;
+}
+
+#listaProdutos{
+    margin-left:10px;
+}
+#prateleira{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+.produto{
+
+    border: 1px solid rgb(187, 186, 186);
+    border-radius: 10px;
+    width: 220px;
+    padding: 10px;
+    margin: 10px 0 0 10px;
+    box-shadow: 1px 1px 0.5px #ddd;
+
+}
+.carrinhoCompras{
+    border: 1px solid rgb(187, 186, 186);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 25px 25px 25px 25px;
+    box-shadow: 1px 1px 0.5px #ddd;
+}
+#carrinho{
+    /* display: flex;
+    flex-wrap: wrap; */
+    margin: 10px;
+    padding: 5px;
+
+}
+.produtoCarrinho{
+    list-style: none;
+}
+
+p{
+    font-size: 22px;
+}
+#apagarCarrinho{
+    margin-left: 25px;
+    border-radius: 5px;
+}
+.input{
+    width: 55px;
+}
+.excluir{
+    color: red;
+    font-size: 30px;
+    margin-left: 15px;
+}
+
+.cadastro{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    margin: 15px;
+    padding: 10px;
+}
+.cadastro div{
+    padding: 15px;
+    border: 1px solid rgb(130, 123, 123);
+}
+#total{
+    font-size: 22px;
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+}
+.iconCar{
+    border-radius: 50px;
+    height: 60px;
+    background-color: #2596be;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 9999;
+}
+.iconCar a{
+    display: flex;
+    margin: 10px;
+    color: white;
+    text-decoration: none;
+}
+.iconCar i{
+    font-size: 35px;
+    padding: 5px;
+
+}
+
+.clique{
+    display: none;
+}
+
+.iconCar:hover .clique{
+    display: inline;
+    transform: translateX(0);
+}
+.frete{
+    color: green;
+    font-size: 22px;
+    font-weight: bold;
+}
+/*  Rodapé da página  */
+.footer{
+    bottom: 0;           
+    background-color: black;
+    /* height: 60px; */
+    width: 100%;
+}
+.footer p{
+    padding: 15px;
+    font-family: sans-serif;
+    color: #999;
+    text-align: center;
+}
+.footer p i{
+    margin: 20px 15px 15px;
+    font-size: 40px; 
+} 

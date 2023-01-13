@@ -1,0 +1,17 @@
+[
+  { "id": 1, "nome": "TV", "imagem": "https://picsum.photos/200", "preco": 2999, "quantidade": 3 },
+  { "id": 2, "nome": "CELULAR", "imagem": "https://picsum.photos/200/", "preco": 3000, "quantidade": 4 },
+  { "id": 3, "nome": "BORRACHA", "imagem": "https://picsum.photos/200//", "preco": 0.8, "quantidade": 25  },
+  { "id": 4, "nome": "COMPUTADOR", "imagem": "https://picsum.photos/200///", "preco": 2200, "quantidade": 5 },
+  { "id": 5, "nome": "HD", "imagem": "https://picsum.photos/200////", "preco": 200, "quantidade": 5 },
+  { "id": 6,"nome": "MOUSE", "imagem": "https://picsum.photos/200/////", "preco": 60, "quantidade": 30 },
+  { "id": 7, "nome": "TECLADO", "imagem": "https://picsum.photos/200//////", "preco": 170, "quantidade": 5 },
+  { "id": 8,"nome": "MONITOR", "imagem": "https://picsum.photos/200///////", "preco": 1999, "quantidade": 2 },
+  { "id": 9, "nome": "FONES", "imagem": "https://picsum.photos/200////////", "preco": 199, "quantidade": 6},
+  { "id": 10, "nome": "CARREGADOR", "imagem": "https://picsum.photos/200/////////", "preco": 15, "quantidade": 20 },
+  { "id": 11, "nome": "CAIXAS DE SOM", "imagem": "https://picsum.photos/200//////////", "preco": 48, "quantidade": 10  },
+  { "id": 12, "nome": "MEMORIA", "imagem": "https://picsum.photos/200///////////", "preco": 400, "quantidade": 4 },
+  { "id": 13, "nome": "HD SSD", "imagem": "https://picsum.photos/200////////////", "preco": 370, "quantidade": 7 },
+  { "id": 15, "nome": "IPHONE 11", "imagem": "https://picsum.photos/200//////////", "preco": 7000, "quantidade": 3 },
+  { "id": 16,"nome": "ROTEADOR", "imagem": "https://picsum.photos/200/////////////", "preco": 230, "quantidade": 10 }
+]
